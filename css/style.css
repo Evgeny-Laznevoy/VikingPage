@@ -528,11 +528,11 @@ ul {
   }
 }
 
-@media (max-width: 414px) {
+/* @media (max-width: 414px) {
   .seasons__inner {
     height: 203px;
   }
-}
+} */
 
 @media (max-width: 374px) {
   .page-header {
